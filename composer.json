@@ -1,0 +1,16 @@
+{
+    "name": "mikywow/vendor-as-phar",
+    "authors": [
+        {
+            "name": "Martin Míka"
+        }
+    ],
+    "require": {
+        "tracy/tracy": "^2.8"
+    },
+    "config": {
+        "platform": {
+            "php": "7.4"
+        }
+    }
+}
